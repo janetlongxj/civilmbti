@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "土木 SBTI 小测试（12 题抽象搞笑强分流版）",
+    "version": "0.5.0"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "如果你刚入行时有人认真问你：『你为什么想干土木？』你最像哪种人？",
+      "dimension": "riskPosture",
+      "options": [
+        {
+          "label": "A",
+          "text": "我就想搞点能站住、别乱塌、晚上能睡着的东西",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "这行挺现实，但真做好一个项目也挺有成就感",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "我想把理论、体系、方法都玩明白，最好还能搞点新东西",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "遇到一个做法大家都说『祖上传下来的，别问』，你更像：",
+      "dimension": "codeJudgment",
+      "options": [
+        {
+          "label": "A",
+          "text": "先凭工程嗅觉判断，这玩意多半八九不离十",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "先看案例，再看规范，主打一个两头都交代得过去",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "不给条文、依据、适用前提，我今天就不想点头",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "如果今天下午没人 ping 你、群也安静了，你会偷偷去哪里修仙？",
+      "dimension": "officeSite",
+      "options": [
+        {
+          "label": "A",
+          "text": "电脑前，开模型、开资料、开文献，进入闭关模式",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "办公室和群聊两边跑，顺手把信息闭环一下",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "现场转一圈，鬼故事得亲眼看才有灵魂",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "项目在冒烟，条件还没齐，老板却说『先给个方向』。你最像哪路神仙？",
+      "dimension": "decisionSpeed",
+      "options": [
+        {
+          "label": "A",
+          "text": "别急，我先补信息，不想乱发功",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "先框个边界，至少别让大家彻底跑飞",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "先推！后面谁炸谁再补锅",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "遇到和甲方来回扯皮，话术已经进入量子态时，你会怎么出手？",
+      "dimension": "communication",
+      "options": [
+        {
+          "label": "A",
+          "text": "先稳场子，慢慢把人和事都哄明白",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "技术讲一点，人情讲一点，争取体面收尾",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "直接切责任、条件、结论，少兜圈子",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "你刷到一个工程事故 / 神级案例，第一眼最上头的是：",
+      "dimension": "detailSystem",
+      "options": [
+        {
+          "label": "A",
+          "text": "体系、机理、荷载路径到底哪一步先崩了",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "整体逻辑先看，再找几个关键细节收口",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "那个节点、边距、安装顺序绝对藏着大瓜",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "一个锅严格来说不在你专业 scope 内，但你已经闻到糊味了。你会：",
+      "dimension": "boundary",
+      "options": [
+        {
+          "label": "A",
+          "text": "发个提醒：这锅不是我的，但它真的快炸了",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "盯一下接口，确保至少有人把球接住",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "算了我上，不然今晚全员一起渡劫",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "deadline 骑脸的时候，你对成果的执念更像哪一派？",
+      "dimension": "deliveryCraft",
+      "options": [
+        {
+          "label": "A",
+          "text": "先能交、能跑、能保命，后面再慢慢补妆",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "质量和体面尽量都守住，别太丢人",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "先别催，我还想补一页推导 / 对比 / 附录把它做顺眼",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "你觉得 AI 会不会替代土木狗？你最像哪个回答？",
+      "dimension": "officeSite",
+      "options": [
+        {
+          "label": "A",
+          "text": "先替我干点脏活累活吧，我负责最后把逻辑讲明白",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "会替一部分，但最后还是得真人把责任兜住",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "AI 替不了现场那一眼，也替不了甲方那顿扯",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "当别人说『这个以前一直这么干，也没出事』，你最像哪种 OS？",
+      "dimension": "decisionSpeed",
+      "options": [
+        {
+          "label": "A",
+          "text": "先等等，我想看看有没有反例、试验或者论文打脸",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "经验可以先听，但边界条件得对上",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "先干，真冒烟了再精准补锅",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "什么东西最容易让你一不小心看上头，甚至忘了下班？",
+      "dimension": "detailSystem",
+      "options": [
+        {
+          "label": "A",
+          "text": "机理解释、参数敏感性、不同理论假设互殴",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "一个案例从概念到落地全链条都讲通",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "节点构造、边距、安装顺序和各种神级干涉",
+          "score": "H"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "如果这个项目最后真平安落地了，你最想对自己说哪句话？",
+      "dimension": "deliveryCraft",
+      "options": [
+        {
+          "label": "A",
+          "text": "活着交了，已经算赢",
+          "score": "L"
+        },
+        {
+          "label": "B",
+          "text": "还行，至少没太离谱，也算对得起自己",
+          "score": "M"
+        },
+        {
+          "label": "C",
+          "text": "这版论证和表达终于顺眼了，舒服",
+          "score": "H"
+        }
+      ]
+    }
+  ]
+}
